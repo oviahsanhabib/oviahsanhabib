@@ -1,0 +1,15 @@
+# 💫 About Me:
+🔭<br>I'm currently working on<br>- Enterprise Microsoft SQL Server administration.<br>- SSIS ETL development and data integration.<br>- SSRS reporting and business intelligence.<br>- SQL Server Always On Availability Groups.<br>- ESP32-based electronics and IoT projects.<br>- Home Assistant and smart home automation.<br>- 3D design, modeling, and printing.<br><br><br><br>👯<br>I'm looking to collaborate on<br>- SQL Server, database architecture, and data engineering.<br>- Database automation and infrastructure projects.<br>- ESP32, IoT, and open-source hardware.<br>- Home Assistant integrations and smart home solutions.<br>- 3D modeling, printing, and creative engineering.<br><br><br><br>🤝<br>I'm looking for help with<br>- Advanced SQL Server optimization and automation.<br>- Modern database technologies and AI integration.<br>- ESP32 firmware and hardware development.<br>- Advanced Home Assistant automations.<br>- CAD design and complex 3D printing projects.<br><br><br><br>🌱<br>I'm currently learning<br>- AI-powered automation and development.<br>- Advanced IoT and embedded systems.<br>- ESP32 programming and integrations.<br>- Advanced 3D modeling and prototyping.<br>- New technologies in database engineering.<br><br><br><br>💬<br>Ask me about<br>- Microsoft SQL Server Administration.<br>- SSIS, SSRS, and T-SQL.<br>- Always On Availability Groups.<br>- Database management and troubleshooting.<br>- ESP32 and IoT projects.<br>- Home Assistant and smart home automation.<br>- 3D design, modeling, and 3D printing.<br><br><br><br>⚡<br>Fun fact<br><br>I'm a DBA by profession, but an engineer at heart. I enjoy turning ideas into reality — whether it's managing enterprise databases, building an ESP32-powered device, automating my home, or designing and printing something from scratch.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahsan.ovi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dbamhabib) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@creativeground2245) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=oviahsanhabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=oviahsanhabib&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=oviahsanhabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=oviahsanhabib&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
